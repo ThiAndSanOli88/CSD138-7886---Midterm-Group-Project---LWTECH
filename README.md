@@ -1,6 +1,6 @@
 # SQL Class Midterm Group Project - CSD138 7886
 
-Welcome to the repository for the Midterm Group Project for the SQL class (CSD138 7886) at Lake Washington Institute of Technology, Spring 2024.
+Welcome to the Midterm Group Project repository for the SQL class (CSD138 7886) at Lake Washington Institute of Technology, Spring 2024.
 
 **Project Details**
 
